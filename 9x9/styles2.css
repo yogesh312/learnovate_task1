@@ -1,0 +1,19 @@
+
+#yo.currently-loading img { 
+    background-color: black;
+    display: block; 
+    width: 100%;
+    border: 5px;
+    height: 100%;
+}
+
+.one{
+    text-align: center;
+    border: 5px;
+}
+.two{
+    text-align: center;
+}
+.three{
+    text-align: center;
+}
